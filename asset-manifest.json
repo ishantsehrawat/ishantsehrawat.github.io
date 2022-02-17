@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.9d868056.css",
-    "main.js": "/static/js/main.2f2c5f95.js",
+    "main.css": "/static/css/main.468e4f11.css",
+    "main.js": "/static/js/main.0539fe6a.js",
     "static/js/787.861bfa22.chunk.js": "/static/js/787.861bfa22.chunk.js",
     "static/media/fitnessApp.png": "/static/media/fitnessApp.f155eabe221c943967db.png",
     "static/media/richie.png": "/static/media/richie.450f6cfdfe344f9952c8.png",
@@ -12,12 +12,12 @@
     "static/media/Arrow_right.svg": "/static/media/Arrow_right.353e6a5c13fc8dd93b5df414ed356cb0.svg",
     "static/media/yellowLine.svg": "/static/media/yellowLine.15dc6794e00b98da6f889ea96d2f0070.svg",
     "static/media/Ellipse 1.svg": "/static/media/Ellipse 1.c27d76dc73ec256acf381583c02ec546.svg",
-    "main.9d868056.css.map": "/static/css/main.9d868056.css.map",
-    "main.2f2c5f95.js.map": "/static/js/main.2f2c5f95.js.map",
+    "main.468e4f11.css.map": "/static/css/main.468e4f11.css.map",
+    "main.0539fe6a.js.map": "/static/js/main.0539fe6a.js.map",
     "787.861bfa22.chunk.js.map": "/static/js/787.861bfa22.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9d868056.css",
-    "static/js/main.2f2c5f95.js"
+    "static/css/main.468e4f11.css",
+    "static/js/main.0539fe6a.js"
   ]
 }
